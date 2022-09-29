@@ -3,6 +3,7 @@ In VScode terminal,cd into the directory "intro-to-aws-lab"and run command "git 
 Open the  .txt file in VScode editor and follow instructions to finish the lab.
 
 Step2  (Create a Key Pair)
+goto ec2
 Login into your AWS Console 
 Create a Key pair with name "Linux" and key file format ".pem"
 Download pem file into your local machine
